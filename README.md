@@ -1,6 +1,6 @@
 # extension
 
-Enhance your movie-web experience with just one click
+Enhance your VidBinge experience with just one click. (VidBinge is Josh Holly's custom fork of movie-web) 
 
 ## Running for development
 
